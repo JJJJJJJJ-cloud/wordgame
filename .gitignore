@@ -1,0 +1,23 @@
+# 大视频文件
+58-全流程通关攻略.mp4
+
+# Release 构建产物
+release版本/
+
+# Qt/C++ 编译产物
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+Makefile
+*.pro.user
+
+# 编译输出目录
+build/
+debug/
+release/
